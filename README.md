@@ -36,6 +36,6 @@ In your terminal, do "sh multiPy_mc.sh t6_arn4p16c10 100" where 100 can be repla
 
 ## Reference
 
-Liu, Wanjun, Xiufan Yu, Wei Zhong, and Runze Li. "Projection test for mean vector in high dimensions." Journal of the American Statistical Association (2022): 1-13.
+Liu, W., Yu, X., Zhong, W., & Li, R. (2022). Projection test for mean vector in high dimensions. Journal of the American Statistical Association, 1-13.
 
 Link: https://www.tandfonline.com/doi/abs/10.1080/01621459.2022.2142592
