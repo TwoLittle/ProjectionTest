@@ -4,7 +4,7 @@ Projection Test for High-dimensional Mean Vectors
 
 ## Functions
 
-onlie_fun.py: 
+online_fun.py: 
 This file contains all functions needed to estimate the optimal projection direction. The main function is cqp_wl_admm_bic, which outputs estimated optimal projection direction via constrained and regularized quadratic programming. The tuning parameter is selected by BIC criterion.
 
 
