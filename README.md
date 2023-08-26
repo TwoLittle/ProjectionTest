@@ -1,4 +1,4 @@
-# ProjectTest
+# Projection Test
 Projection Test for High-dimensional Mean Vectors
 
 
